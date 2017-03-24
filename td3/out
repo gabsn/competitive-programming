@@ -1,0 +1,8 @@
+queue_front : 1 & distance : 0
+queue_front : 0 & distance : 1
+1 2 1
+
+queue_front : 0 & distance : 0
+queue_front : 1 & distance : 1
+queue_front : 2 & distance : 2
+0 3 2
